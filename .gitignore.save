@@ -1,0 +1,46 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Database / local data
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Runtime DB
+/data/*.db
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+
+# Env
+.env
